@@ -1,0 +1,71 @@
+EQUIPO COLABORATIVO PRACTICA 2;
+FANNY PRIETO
+ARLEY BACARES
+GIANMARCOS SATIZABAL
+
+
+EL EJERCICIO CONSISTE EN CREAR LA BASE DE DATOS Y LAS TABLAS ( LAS TABLAS NO CONTIENEN DATOS)
+______________________________________________________________________________________________________________-
+
+
+//CREACION DE BASE DE DATOS
+CREATE DATABASE practica2;
+
+
+//USAR BASES DE DATOS PRACTICA2
+ USE practica2;
+ 
+
+//CREAR TABLA CERVEZA
+CREATE TABLE cerveza(idcerveza INT AUTO_INCREMENT PRIMARY KEY,
+     nombre VARCHAR (255) NOT NULL,
+     detalle VARCHAR (255)
+     );
+
+//CREAR TABLA CATEGORIA
+ CREATE TABLE categoria(idcategoria INT AUTO_INCREMENT PRIMARY KEY,
+     nombre VARCHAR (255) NOT NULL,
+     detalle VARCHAR (255)
+     );
+
+//CREAR TABLA MATERIA PRIMA
+ CREATE TABLE materia_prima(id_materiap INT AUTO_INCREMENT PRIMARY KEY,
+     nombre VARCHAR (255) NOT NULL,
+     detalle VARCHAR (255)
+     );
+
+//CREAR TABLA TIPO
+ CREATE TABLE tipo(id_tipo INT AUTO_INCREMENT PRIMARY KEY,
+     nombre VARCHAR (255) NOT NULL
+     );
+
+
+//CREAR TABLA INTERMEDIA TIPO_CATEGORIA
+ CREATE TABLE tipo_categoria(id_tipoc INT AUTO_INCREMENT PRIMARY KEY,
+     idcategoria INT,
+     id_tipo INT,
+     FOREIGN KEY (idcategoria) REFERENCES categoria(idcategoria),
+     FOREIGN KEY (id_tipo) REFERENCES tipo(id_tipo)
+     );
+
+
+//CREAR INTERMEDIA CERVEZA_MATERIA PRIMA
+CREATE TABLE cerveza_matprima(id INT AUTO_INCREMENT PRIMARY KEY,
+     idcerveza INT,
+     id_materiap INT,
+     cantidad DECIMAL(8,4),
+     unidad VARCHAR (255),
+     FOREIGN KEY (idcerveza) REFERENCES cerveza(idcerveza),
+     FOREIGN KEY (id_materiap) REFERENCES materia_prima(id_materiap)
+     );
+
+
+//ADICIONAR FOREIGN KEY IDCATEGORIA A TABLA CERVEZA
+ ALTER TABLE cerveza
+     ADD COLUMN idcategoria INT NOT NULL,
+     ADD CONSTRAINT `fk_idcategoria` FOREIGN KEY (idcategoria)
+     REFERENCES categoria (idcategoria);
+
+
+//VERIFICAR CAMPO IDCATEGORIA ADICIONADO EN TABLA CERVEZA
+show create table practica2.cerveza;
