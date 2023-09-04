@@ -1,0 +1,209 @@
+[{
+  "_id": 1,
+  "Fecha": "02/08/2023",
+  "Nombre": "Pedro",
+  "Apellido": "Jímenez",
+  "Producto": {
+    "Nombre": "Dark",
+    "Precio": "13.4",
+    "Cantidad": "Sixpack"
+  }
+},
+{
+  "_id": 2,
+  "Fecha": "04/08/2023",
+  "Nombre": "Julian",
+  "Apellido": "Barraza",
+  "Producto": {
+    "Nombre": "Dark",
+    "Precio": "13.4",
+    "Cantidad": "3"
+  }
+},
+{
+  "_id": 3,
+  "Fecha": "08/08/2023",
+  "Nombre": "Julio",
+  "Apellido": "Rivera",
+  "Producto": {
+    "Nombre": "Belgians",
+    "Precio": "12.5",
+    "Cantidad": "4"
+  }
+},
+{
+  "_id": 4,
+  "Fecha": "010/08/2023",
+  "Nombre": "Juliana",
+  "Apellido": "Diaz",
+  "Producto": {
+    "Nombre": "Sours",
+    "Precio": "12.5",
+    "Cantidad": "7"
+  }
+},
+{
+  "_id": 5,
+  "Fecha": "12/08/2023",
+  "Nombre": "José",
+  "Apellido": "Suarez",
+  "Producto": {
+    "Nombre": "Stouts",
+    "Precio": "12.5",
+    "Cantidad": "7"
+  }
+},
+{
+  "_id": 6,
+  "Fecha": "14/08/2023",
+  "Nombre": "Julieth",
+  "Apellido": "Huila",
+  "Producto": {
+    "Nombre": "Porters",
+    "Precio": "12.5",
+    "Cantidad": "7"
+  }
+},
+{
+  "_id": 7,
+  "Fecha": "04/08/2023",
+  "Nombre": "Julian",
+  "Apellido": "Barraza",
+  "Producto": {
+    "Nombre": "Bocks",
+    "Precio": "13.4",
+    "Cantidad": "5"
+  }
+},
+{
+  "_id": 8,
+  "Fecha": "04/08/2023",
+  "Nombre": "Gianmarcos",
+  "Apellido": "Satizábal",
+  "Producto": {
+    "Nombre": "Costeñita",
+    "Precio": "13.4",
+    "Cantidad": "2"
+  }
+},
+{
+  "_id": 9,
+  "Fecha": "24/08/2023",
+  "Nombre": "Cristian Andres",
+  "Apellido": "Hernandez",
+  "Producto": {
+    "Nombre": "poker",
+    "Precio": "13.4",
+    "Cantidad": "1"
+  }
+},
+{
+  "_id": 10,
+  "Fecha": "26/08/2023",
+  "Nombre": "Alan",
+  "Apellido": "Paredes",
+  "Producto": {
+    "Nombre": "Águila Ligth",
+    "Precio": "12.5",
+    "Cantidad": "8"
+  }
+},
+{
+  "_id": 11,
+  "Fecha": "22/08/2023",
+  "Nombre": "Camilo",
+  "Apellido": "Orejuela",
+  "Producto": {
+    "Nombre": "Dark",
+    "Precio": "13.4",
+    "Cantidad": "3"
+  }
+},
+{
+  "_id": 12,
+  "Fecha": "20/08/2023",
+  "Nombre": "Marcos",
+  "Apellido": "Penagos",
+  "Producto": {
+    "Nombre": "Club Colombia",
+    "Precio": "13.4",
+    "Cantidad": "1"
+  }
+},
+{
+  "_id": 13,
+  "Fecha": "01/08/2023",
+  "Nombre": "Bolivar",
+  "Apellido": "D'Croz",
+  "Producto": {
+    "Nombre": "Belgians",
+    "Precio": "12.5",
+    "Cantidad": "8"
+  }
+},
+{
+  "_id": 14,
+  "Fecha": "08/08/2023",
+  "Nombre": "Gustavo",
+  "Apellido": "Rodriguez",
+  "Producto": {
+    "Nombre": "Dark",
+    "Precio": "13.4",
+    "Cantidad": "3"
+  }
+},
+{
+  "_id": 15,
+  "Fecha": "04/08/2023",
+  "Nombre": "Pedro",
+  "Apellido": "Barraza",
+  "Producto": {
+    "Nombre": "Bocks",
+    "Precio": "13.4",
+    "Cantidad": "8"
+  }
+},
+{
+  "_id": 16,
+  "Fecha": "30/08/2023",
+  "Nombre": "Fidel",
+  "Apellido": "Penagos",
+  "Producto": {
+    "Nombre": "Club Colombia",
+    "Precio": "13.4",
+    "Cantidad": "1"
+  }
+},
+{
+  "_id": 17,
+  "Fecha": "31/08/2023",
+  "Nombre": "Bolivar",
+  "Apellido": "D'Croz",
+  "Producto": {
+    "Nombre": "Belgians",
+    "Precio": "12.5",
+    "Cantidad": "8"
+  }
+},
+{
+  "_id": 18,
+  "Fecha": "08/08/2023",
+  "Nombre": "Gustavo",
+  "Apellido": "Rodriguez",
+  "Producto": {
+    "Nombre": "Dark",
+    "Precio": "13.4",
+    "Cantidad": "3"
+  }
+},
+{
+  "_id": 19,
+  "Fecha": "04/08/2023",
+  "Nombre": "Pedro",
+  "Apellido": "Barraza",
+  "Producto": {
+    "Nombre": "Bocks",
+    "Precio": "13.4",
+    "Cantidad": "8"
+  }
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "Nombre": "Dark"
+},
+{
+  "_id": 2,
+  "Nombre": "Bocks"
+},
+{
+  "_id": 3,
+  "Nombre": "Pale"
+},
+{
+  "_id": 4,
+  "Nombre": "Stouts"
+},
+{
+  "_id": 5,
+  "Nombre": "Porters"
+},
+{
+  "_id": 6,
+  "Nombre": "Belgians"
+},
+{
+  "_id": 7,
+  "Nombre": "Sours"
+},
+{
+  "_id": 8,
+  "Nombre": "Poker"
+},
+{
+  "_id": 9,
+  "Nombre": "Águila"
+},
+{
+  "_id": 10,
+  "Nombre": "Águila light"
+},
+{
+  "_id": 11,
+  "Nombre": "Costeñita"
+},
+{
+  "_id": 12,
+  "Nombre": "Club Colombia"
+}]
