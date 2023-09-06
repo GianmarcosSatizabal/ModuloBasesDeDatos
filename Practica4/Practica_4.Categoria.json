@@ -1,48 +1,60 @@
 [{
   "_id": 1,
-  "Nombre": "Dark"
+  "Nombre": "Dark",
+  "Precio": "13.4"
 },
 {
   "_id": 2,
-  "Nombre": "Bocks"
+  "Nombre": "Bocks",
+  "Precio": "13.4"
 },
 {
   "_id": 3,
-  "Nombre": "Pale"
+  "Nombre": "Pale",
+  "Precio": "13.4"
 },
 {
   "_id": 4,
-  "Nombre": "Stouts"
+  "Nombre": "Stouts",
+  "Precio": "12.5"
 },
 {
   "_id": 5,
-  "Nombre": "Porters"
+  "Nombre": "Porters",
+  "Precio": "12.5"
 },
 {
   "_id": 6,
-  "Nombre": "Belgians"
+  "Nombre": "Belgians",
+  "Precio": "12.5"
 },
 {
   "_id": 7,
-  "Nombre": "Sours"
+  "Nombre": "Sours",
+  "Precio": "12.5"
 },
 {
   "_id": 8,
-  "Nombre": "Poker"
+  "Nombre": "Poker",
+  "Precio": "15.0"
 },
 {
   "_id": 9,
-  "Nombre": "Águila"
+  "Nombre": "Águila",
+  "Precio": "15.0"
 },
 {
   "_id": 10,
-  "Nombre": "Águila light"
+  "Nombre": "Águila light",
+  "Precio": "14.5"
 },
 {
   "_id": 11,
-  "Nombre": "Costeñita"
+  "Nombre": "Costeñita",
+  "Precio": "14.5"
 },
 {
   "_id": 12,
-  "Nombre": "Club Colombia"
+  "Nombre": "Club Colombia",
+  "Precio": "15.0"
 }]

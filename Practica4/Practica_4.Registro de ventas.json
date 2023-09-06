@@ -5,9 +5,17 @@
   "Apellido": "Jímenez",
   "Producto": {
     "Nombre": "Dark",
-    "Precio": "13.4",
-    "Cantidad": "Sixpack"
-  }
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "Sixpack",
+    "Total a pagar": {
+      "$numberDecimal": "60.8"
+    }
+  },
+  "Bariio": "Villa del prado",
+  "Direccion": "Calle falsa xxxxx",
+  "Telefon": "3021522001"
 },
 {
   "_id": 2,
@@ -16,9 +24,17 @@
   "Apellido": "Barraza",
   "Producto": {
     "Nombre": "Dark",
-    "Precio": "13.4",
-    "Cantidad": "3"
-  }
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "3",
+    "Total a pagar": {
+      "$numberDecimal": "40.2"
+    }
+  },
+  "Barrio": "Santa Barbara",
+  "Dirección": "Calle false 452145",
+  "Teléfono": "251420"
 },
 {
   "_id": 3,
@@ -27,9 +43,17 @@
   "Apellido": "Rivera",
   "Producto": {
     "Nombre": "Belgians",
-    "Precio": "12.5",
-    "Cantidad": "4"
-  }
+    "Precio": {
+      "$numberDecimal": "12.5"
+    },
+    "Cantidad": "4",
+    "Total a pagar": {
+      "$numberDecimal": "50"
+    }
+  },
+  "Barrio": "La Rivera",
+  "Dirección": "Calle false 65125",
+  "Teléfono": "784214578"
 },
 {
   "_id": 4,
@@ -38,9 +62,17 @@
   "Apellido": "Diaz",
   "Producto": {
     "Nombre": "Sours",
-    "Precio": "12.5",
-    "Cantidad": "7"
-  }
+    "Precio": {
+      "$numberDecimal": "12.5"
+    },
+    "Cantidad": "7",
+    "Total a pagar": {
+      "$numberDecimal": "87.5"
+    }
+  },
+  "Barrio": "Salomia",
+  "Dirección": "Calle false 4697461",
+  "Teléfono": "19374688"
 },
 {
   "_id": 5,
@@ -49,9 +81,17 @@
   "Apellido": "Suarez",
   "Producto": {
     "Nombre": "Stouts",
-    "Precio": "12.5",
-    "Cantidad": "7"
-  }
+    "Precio": {
+      "$numberDecimal": "12.5"
+    },
+    "Cantidad": "7",
+    "Total a pagar": {
+      "$numberDecimal": "87.5"
+    }
+  },
+  "Barrio": "Los Andes",
+  "Dirección": "Calle false 021548",
+  "Teléfono": "7946122"
 },
 {
   "_id": 6,
@@ -61,8 +101,12 @@
   "Producto": {
     "Nombre": "Porters",
     "Precio": "12.5",
-    "Cantidad": "7"
-  }
+    "Cantidad": "7",
+    "Total a pagar": "87.5"
+  },
+  "Barrio": "Jorge Eliecer Gaitan ",
+  "Dirección": "Calle false 452145",
+  "Teléfono": "2145784521"
 },
 {
   "_id": 7,
@@ -71,9 +115,17 @@
   "Apellido": "Barraza",
   "Producto": {
     "Nombre": "Bocks",
-    "Precio": "13.4",
-    "Cantidad": "5"
-  }
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "5",
+    "Total a pagar": {
+      "$numberDecimal": "67"
+    }
+  },
+  "Barrio": "Guayacanes",
+  "Dirección": " Calle false 4949754",
+  "Teléfono": "45782145"
 },
 {
   "_id": 8,
@@ -82,9 +134,17 @@
   "Apellido": "Satizábal",
   "Producto": {
     "Nombre": "Costeñita",
-    "Precio": "13.4",
-    "Cantidad": "2"
-  }
+    "Precio": {
+      "$numberDecimal": "14.5"
+    },
+    "Cantidad": "2",
+    "Total a pagar": {
+      "$numberDecimal": "29"
+    }
+  },
+  "Barrio": "Chiminangos",
+  "Dirección": " calle false 46314647",
+  "Teléfono": "97984585"
 },
 {
   "_id": 9,
@@ -95,7 +155,10 @@
     "Nombre": "poker",
     "Precio": "13.4",
     "Cantidad": "1"
-  }
+  },
+  "Barrio": "Calima",
+  "Dirección": "calle false 978465312",
+  "Teléfono": "01221055454"
 },
 {
   "_id": 10,
@@ -106,7 +169,10 @@
     "Nombre": "Águila Ligth",
     "Precio": "12.5",
     "Cantidad": "8"
-  }
+  },
+  "Barrio": " Alfonso Lopez 1",
+  "Direccón": " calle false 441258",
+  "Teléfono": "31245841"
 },
 {
   "_id": 11,
@@ -115,9 +181,17 @@
   "Apellido": "Orejuela",
   "Producto": {
     "Nombre": "Dark",
-    "Precio": "13.4",
-    "Cantidad": "3"
-  }
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "3",
+    "Total a pagar": {
+      "$numberDecimal": "40.2"
+    }
+  },
+  "Barrio": "Alfonso Lopez 2",
+  "Dirección": " Calle false 454578",
+  "Teléfono": "0180000111111"
 },
 {
   "_id": 12,
@@ -126,9 +200,17 @@
   "Apellido": "Penagos",
   "Producto": {
     "Nombre": "Club Colombia",
-    "Precio": "13.4",
-    "Cantidad": "1"
-  }
+    "Precio": {
+      "$numberDecimal": "15"
+    },
+    "Cantidad": "1",
+    "Total a pagar": {
+      "$numberDecimal": "15"
+    }
+  },
+  "Barrio": "Alfonso Lopez 3",
+  "Dirección": " Calle false 7878",
+  "Teléfono": "9731469746"
 },
 {
   "_id": 13,
@@ -137,9 +219,17 @@
   "Apellido": "D'Croz",
   "Producto": {
     "Nombre": "Belgians",
-    "Precio": "12.5",
-    "Cantidad": "8"
-  }
+    "Precio": {
+      "$numberDecimal": "12.5"
+    },
+    "Cantidad": "8",
+    "Total a pagar": {
+      "$numberDecimal": "100"
+    }
+  },
+  "Barrio": " Nueva Floresta",
+  "Dirección": " Calle false 21458",
+  "Teléfono": "478454521"
 },
 {
   "_id": 14,
@@ -148,9 +238,17 @@
   "Apellido": "Rodriguez",
   "Producto": {
     "Nombre": "Dark",
-    "Precio": "13.4",
-    "Cantidad": "3"
-  }
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "3",
+    "Total a pagar": {
+      "$numberDecimal": "40.2"
+    }
+  },
+  "Barrio": "Ciudad Cordoba",
+  "Dirección": " calle false ",
+  "Teléfono": " 021214450"
 },
 {
   "_id": 15,
@@ -159,9 +257,17 @@
   "Apellido": "Barraza",
   "Producto": {
     "Nombre": "Bocks",
-    "Precio": "13.4",
-    "Cantidad": "8"
-  }
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "8",
+    "Total a pagar": {
+      "$numberDecimal": "107.2"
+    }
+  },
+  "Barrio": "Comuneros 1",
+  "Dirección": " Calle false 11114522",
+  "Teléfono": "9784646462"
 },
 {
   "_id": 16,
@@ -170,9 +276,15 @@
   "Apellido": "Penagos",
   "Producto": {
     "Nombre": "Club Colombia",
-    "Precio": "13.4",
-    "Cantidad": "1"
-  }
+    "Precio": {
+      "$numberDecimal": "15"
+    },
+    "Cantidad": "1",
+    "Total a pagar": "15"
+  },
+  "Barrio": " Alfonso Bonilla",
+  "Dirección": " calle false 454545",
+  "Teléfono": "55469822"
 },
 {
   "_id": 17,
@@ -181,9 +293,17 @@
   "Apellido": "D'Croz",
   "Producto": {
     "Nombre": "Belgians",
-    "Precio": "12.5",
-    "Cantidad": "8"
-  }
+    "Precio": {
+      "$numberDecimal": "12.5"
+    },
+    "Cantidad": "8",
+    "Total a pagar": {
+      "$numberDecimal": "100"
+    }
+  },
+  "Barrio": " Floralia",
+  "Dirección": " Calle false 147852",
+  "Telefono": "464646464646"
 },
 {
   "_id": 18,
@@ -192,9 +312,17 @@
   "Apellido": "Rodriguez",
   "Producto": {
     "Nombre": "Dark",
-    "Precio": "13.4",
-    "Cantidad": "3"
-  }
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "3",
+    "Total a pagar": {
+      "$numberDecimal": "40.2"
+    }
+  },
+  "Barrio": "San Luis 1",
+  "Dirección": "calle false 979797",
+  "Teléfono": "77787878454545"
 },
 {
   "_id": 19,
@@ -203,7 +331,15 @@
   "Apellido": "Barraza",
   "Producto": {
     "Nombre": "Bocks",
-    "Precio": "13.4",
-    "Cantidad": "8"
-  }
+    "Precio": {
+      "$numberDecimal": "13.5"
+    },
+    "Cantidad": "8",
+    "Total a pagar": {
+      "$numberDecimal": "107.2"
+    }
+  },
+  "Barrio": "San Luis 2",
+  "Dirección": "calle false 4444",
+  "Teléfono": "00121244"
 }]
