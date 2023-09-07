@@ -4,7 +4,7 @@
   },
   "Nombre": "Lager",
   "\"_id\"": "1",
-  "Se utilizo": "Malta"
+  "Se utilizo": "175 gramos de cebada"
 },
 {
   "_id": {
@@ -12,7 +12,7 @@
   },
   "Nombre": "Ale",
   "\"_id\"": "2",
-  "Se utilizo": "Levadura"
+  "Se utilizo": "3 gramos de lúpulo."
 },
 {
   "_id": {
@@ -28,7 +28,7 @@
   },
   "Nombre": "Poker",
   "\"_id\"": "4",
-  "Se utilizo": "Lúpulo"
+  "Se utilizo": "un gramo de levadura."
 },
 {
   "_id": {
@@ -36,5 +36,5 @@
   },
   "Nombre": "Águila",
   "\"_id\"": "5",
-  "Se utilizo": "Ägua y Levadura"
+  "Se utilizo": "6 gramos de azúcar común (hacia el final del proceso)"
 }]
