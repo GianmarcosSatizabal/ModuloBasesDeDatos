@@ -1,20 +1,29 @@
 [{
   "_id": 1,
-  "Nombre": "Água"
+  "Nombre": " Água",
+  "Cantidad": "15 litros",
+  "cantidad_restante": "10 litros"
 },
 {
   "_id": 2,
-  "Nombre": "Levadura"
+  "Nombre": "Levadura",
+  "cantidad": "1000 gramos",
+  "cantidad_restante": "999 gramos"
 },
 {
   "_id": 3,
-  "Nombre": "Lúpulo"
+  "Nombre": "Lúpulo",
+  "cantidad": "1000 gramos",
+  "cantidad_restante": "997 gramos"
 },
 {
   "_id": 4,
-  "Nombre": "Malta"
+  "Nombre": "Malta",
+  "cantidad": "1000 gramos"
 },
 {
   "_id": 6,
-  "Nombre": "Cebada"
+  "Nombre": "Cebada",
+  "Cantidad_restante": "825 gramos",
+  "cantidad": "1000 gramos"
 }]

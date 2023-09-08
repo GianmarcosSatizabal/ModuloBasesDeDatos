@@ -1,0 +1,64 @@
+[{
+  "_id": 1,
+  "Dark precio": "13.4",
+  "Cantidad vendidas": 18,
+  "Total ganancia": 241.2
+},
+{
+  "_id": 2,
+  "Belgians precio": "12.5",
+  "Cantidad vendidas": 20,
+  "Total ganancia": 250
+},
+{
+  "_id": 3,
+  "Cantidad vendidas": 21,
+  "Total ganancia": 281.4,
+  "Bocks precio": "13.4"
+},
+{
+  "_id": 4,
+  "Cantidad vendidas": 7,
+  "Total ganancia": 87.5,
+  "Sours precio": "12.5"
+},
+{
+  "_id": 5,
+  "Cantidad vendidas": 7,
+  "Total ganancia": {
+    "$numberDecimal": "87.5"
+  },
+  "Porters precio": "12.5"
+},
+{
+  "_id": 6,
+  "Cantidad vendidas": 7,
+  "Total ganancia": {
+    "$numberDecimal": "87.5"
+  },
+  "Stouts precio": "12.5"
+},
+{
+  "_id": 7,
+  "Club Colombia precio": "15",
+  "Cantidad vendidas": 2,
+  "Total ganancia": 30
+},
+{
+  "_id": 8,
+  "Costeñita precio": "14.5",
+  "Cantidad vendidas": 2,
+  "Total ganancia": 29
+},
+{
+  "_id": 9,
+  "Poker precio": "13.4",
+  "Cantidad vendidas": 1,
+  "Total ganancia": 13.4
+},
+{
+  "_id": 10,
+  "Poker precio": "12.5",
+  "Cantidad vendidas": 8,
+  "Total ganancia": 100
+}]

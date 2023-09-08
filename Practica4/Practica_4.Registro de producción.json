@@ -29,12 +29,4 @@
   "Nombre": "Poker",
   "\"_id\"": "4",
   "Se utilizo": "un gramo de levadura."
-},
-{
-  "_id": {
-    "$oid": "64f5f66c2cb3956dc554cb12"
-  },
-  "Nombre": "Águila",
-  "\"_id\"": "5",
-  "Se utilizo": "6 gramos de azúcar común (hacia el final del proceso)"
 }]

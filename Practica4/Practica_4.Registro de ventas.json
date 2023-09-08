@@ -10,7 +10,7 @@
     },
     "Cantidad": "Sixpack",
     "Total a pagar": {
-      "$numberDecimal": "60.8"
+      "$numberDecimal": "80.4"
     }
   },
   "Bariio": "Villa del prado",
@@ -153,8 +153,13 @@
   "Apellido": "Hernandez",
   "Producto": {
     "Nombre": "poker",
-    "Precio": "13.4",
-    "Cantidad": "1"
+    "Precio": {
+      "$numberDecimal": "13.4"
+    },
+    "Cantidad": "1",
+    "Total a pagar": {
+      "$numberDecimal": "13.4"
+    }
   },
   "Barrio": "Calima",
   "Dirección": "calle false 978465312",
@@ -167,8 +172,15 @@
   "Apellido": "Paredes",
   "Producto": {
     "Nombre": "Águila Ligth",
-    "Precio": "12.5",
-    "Cantidad": "8"
+    "Precio": {
+      "$numberDecimal": "12.5"
+    },
+    "Cantidad": {
+      "$numberDecimal": "8"
+    },
+    "Total a pagar": {
+      "$numberDecimal": "100"
+    }
   },
   "Barrio": " Alfonso Lopez 1",
   "Direccón": " calle false 441258",
